@@ -17,7 +17,8 @@
 #include <stdio.h>      /* vsnprintf */
 #include <string.h>
 
-#include "sgx_tae_service.h"
+//#include "sgx_tae_service.h"
+#include "sgx_key_exchange.h"
 #include "sgx_tseal.h"
 
 #include "enclave.h"

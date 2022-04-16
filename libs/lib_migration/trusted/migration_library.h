@@ -25,7 +25,8 @@
 #include <stdbool.h>
 #include <stdint.h>
 #include "sgx_tseal.h"
-#include "sgx_tae_service.h"
+#include "sgx_key_exchange.h"
+//#include "sgx_tae_service.h"
 
 #if defined(__cplusplus)
 extern "C" {

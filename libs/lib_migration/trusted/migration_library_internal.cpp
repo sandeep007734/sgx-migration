@@ -14,7 +14,8 @@
  */
 
 #include "string.h" //for memset
-#include "sgx_tae_service.h"
+//#include "sgx_tae_service.h"
+#include "sgx_key_exchange.h"
 #include "sgx_key.h"
 
 #include "marshalling.h"

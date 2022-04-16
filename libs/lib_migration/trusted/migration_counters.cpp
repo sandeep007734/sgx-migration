@@ -16,7 +16,8 @@
 /*
     Migratable counter functions
 */
-#include "sgx_tae_service.h" // For mc defines
+//#include "sgx_tae_service.h" // For mc defines
+#include "sgx_key_exchange.h"
 #include "sgx_trts.h"        // For is_within_enclave functions
 #include "string.h"
 
